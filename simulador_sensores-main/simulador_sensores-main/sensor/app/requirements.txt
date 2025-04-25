@@ -1,9 +1,0 @@
-polars
-deltalake==0.19
-delta
-delta-sharing
-pyarrow
-minio
-faker
-requests
-packaging

@@ -1,7 +1,0 @@
-flask
-flask-cors
-polars
-deltalake==0.19
-boto3
-botocore
-packaging
